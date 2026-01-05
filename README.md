@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshita Negi</h1>
 <h3 align="center">A passionate and aspiring web developer from India</h3>
 
-- Hi, I'm currently working on **Local To Vocal**
-
-- 🌱 I’m currently learning **MongoDb,NodeJs**
-
 - 📫 How to reach me **negiharshita9138@gmail.com**
 
 - ⚡ Fun fact **I love to read books**
